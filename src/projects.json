@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "name": "UMMI Images",
+    "image": "img/UMMI (4).png",
+    "github": "",
+    "link": "http://ummi.io",
+    "description": "A sorting utility for user photo albums."
+  },
+  
+  {
+    "id": 1,
+    "name": "Clicky-Game",
+    "image": "img/9.png",
+    "github": "",
+    "link": "https://ubadahatta.github.io/Clicky-Game/",
+    "description": "A memory game with React."
+  },
+  {
+    "id": 2,
+    "name": "Doable",
+    "image": "img/8.png",
+    "github": "",
+    "link": "https://nameless-hollows-17166.herokuapp.com/",
+    "description": "An app that allowes users to post tasks/jobs or earn extra money by doing a task."
+  },
+  {
+    "id": 3,
+    "name": "Train Scheduler",
+    "image": "img/train.jpeg",
+    "github": "",
+    "link": "https://ubadahatta.github.io/Train-Scheduler/",
+    "description": "A plain JavaScript math game designed to reinforce a students understanding of order of operations."
+  },
+  {
+    "id": 4,
+    "name": "Hangman",
+    "image": "img/hangman.jpeg",
+    "github": "",
+    "link": "https://ubadahatta.github.io/Word-Guess-Game/",
+    "description": "Word Guess Game"
+  },
+  {
+    "id": 5,
+    "name": "Bamazon",
+    "image": "img/7.png",
+    "github": "",
+    "link": "https://github.com/ubadahatta/bamazon",
+    "description": "An Amazon-like storefront using MySQL."
+  },
+  {
+    "id": 6,
+    "name": "Nasa Trivia",
+    "image": "img/6.png",
+    "github": "",
+    "link": "https://ubadahatta.github.io/NASA-Trivia/",
+    "description": "Designed using both NASA's API and the Ope Trivia API to generate space trivia questions based on NASA's photo of the day."
+  },
+  {
+    "id": 7,
+    "name": "Friends Match",
+    "image": "img/5.png",
+    "github": "",
+    "link": "https://shrouded-cliffs-94055.herokuapp.com/",
+    "description": "Take a simple survey and get matched to a friend. "
+  }
+]

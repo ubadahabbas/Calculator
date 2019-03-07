@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Phone",
+    "link": "tel:+12028266383",
+    "hexicon": "./img/hexicons/phone.png",
+    "icon": "./img/icons/phone.png"
+  },
+  {
+    "name": "Email",
+    "link": "mailto:ubadahabbas12@gmail.com",
+    "hexicon": "./img/hexicons/email.png",
+    "icon": "./img/icons/email.png"
+  },
+  {
+    "name": "Address",
+    "link": "Washington, DC 20008",
+    "hexicon": "./img/hexicons/location.png",
+    "icon": "./img/icons/location.png"
+  },
+  {
+    "name": "Github",
+    "link": "https://github.com/ubadahatta",
+    "hexicon": "./img/hexicons/github.png",
+    "icon": "./img/icons/github.png"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/ubadah-atta-070173bb/",
+    "hexicon": "./img/hexicons/linkedin.png",
+    "icon": "./img/icons/linkedin.png"
+  },
+  {
+    "name": "Resume",
+    "link": "./img/resume.pdf",
+    "hexicon": "./img/hexicons/resume.png",
+    "icon": "./img/icons/resume.png"
+  }
+]
